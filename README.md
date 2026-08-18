@@ -1,4 +1,19 @@
 # Git Learning
- I am learning Git and GitHub
-Two Line Insert Into README Line
- New Line For Test
+
+I am learning Git and GitHub.
+
+## What I Have Learned
+
+- Git
+- GitHub
+- Git Bash
+- Repository
+- Commit
+- Push
+- Pull
+
+## Git Commands
+
+### Check Status
+
+
